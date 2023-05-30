@@ -1,0 +1,25 @@
+{
+  "produtos": [
+  {
+  "id": 1,
+  "descricao": "Shampoo",
+  "estoque": 10,
+  "valor": 15,
+  "imagem": "../AC1INW2/img/shampoooo-removebg-preview.png"
+  },
+  {
+  "id": 2,
+  "descricao": "Buscopan",
+  "estoque": 10,
+  "valor": 20,
+  "imagem": "../AC1INW2/img/buscopann-removebg-preview.png"
+  },
+  {
+  "id": 3,
+  "descricao": "Fralda",
+  "estoque": 10,
+  "valor": 50,
+  "imagem": "../AC1INW2/img/fraldinhaa-removebg-preview.png"
+  }
+  ]
+ }
