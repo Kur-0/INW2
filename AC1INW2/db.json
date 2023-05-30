@@ -2,21 +2,24 @@
   "produtos": [
   {
   "id": 1,
-  "descricao": "Shampoo",
+  "nome": "Shampoo",
+  "descricao": "Shampoo da dove para cabelos secos.",
   "estoque": 10,
   "valor": 15,
   "imagem": "../AC1INW2/img/shampoooo-removebg-preview.png"
   },
   {
   "id": 2,
-  "descricao": "Buscopan",
+  "nome": "Buscopan",
+  "descricao": "Medicamento para cólicas abdominais.",
   "estoque": 10,
   "valor": 20,
   "imagem": "../AC1INW2/img/buscopann-removebg-preview.png"
   },
   {
   "id": 3,
-  "descricao": "Fralda",
+  "nome": "Fralda",
+  "descricao": "Fralda infantil Huggies",
   "estoque": 10,
   "valor": 50,
   "imagem": "../AC1INW2/img/fraldinhaa-removebg-preview.png"
